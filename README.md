@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anusuya</h1>
+<h3 align="center">A passionate IT student and future full-stack developer</h3>
 
-<!--
-**anusuya2005/anusuya2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Python, DSA & Full Stack Web Development**
 
-Here are some ideas to get you started:
+- 💼 Looking for Internship in **Web Development / Python Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Practicing on **LeetCode** & building real-world projects
+
+- 📫 How to reach me: [anusuya200515@gmail.com](mailto:anusuya200515@gmail.com)
+
+- 🔗 My Links:  
+  [GitHub](https://github.com/anusuya2005) |  
+  [LinkedIn](https://linkedin.com/in/anusuya2005) |  
+  [LeetCode](https://leetcode.com/Anusuya_Vadivel)
+
+---
+
+### 🛠️ Skills
+**Languages:** Python, JavaScript, HTML, CSS, SQL  
+**Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anusuya2005&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusuya2005&theme=radical" width="47%" />
+</p>
+
+---
+
+_Last updated on June 29, 2025_
