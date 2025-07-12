@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anusuya</h1>
-<h3 align="center">A passionate IT student and future full-stack developer</h3>
+<h3 align="center">A passionate IT student </h3>
 
-- 🌱 I’m currently learning **Python, DSA & Full Stack Web Development**
+- 🌱 I’m currently learning **Python, DSA**
 
-- 💼 Looking for Internship in **Web Development / Python Development**
+- 💼 Looking for Internship in **Python Development**
 
 - 🧠 Practicing on **LeetCode** & building real-world projects
 
@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Skills
-**Languages:** Python, JavaScript, HTML, CSS, SQL  
+**Languages:** Python  
 **Tools:** Git, GitHub, VS Code
 
 ---
