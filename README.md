@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anusuya</h1>
-<h3 align="center">A passionate IT student </h3>
+<h3 align="center">Aspiring Full Stack Developer | B.Tech IT Student</h3>
 
-- 🌱 I’m currently learning **Python, DSA**
+- 🌱 I’m currently learning **Python, Data Structures & Algorithms, Web Development**
 
-- 💼 Looking for Internship in **Python Development**
+- 💼 Looking for Internship opportunities in **Python / Full Stack Development**
 
-- 🧠 Practicing on **LeetCode** & building real-world projects
+- 🚀 Currently working on **real-world projects and portfolio development**
+
+- 🧠 Practicing problem-solving on **LeetCode**
 
 - 📫 How to reach me: [anusuya200515@gmail.com](mailto:anusuya200515@gmail.com)
 
@@ -17,8 +19,15 @@
 ---
 
 ### 🛠️ Skills
-**Languages:** Python  
-**Tools:** Git, GitHub, VS Code
+**Languages:** Python, HTML, CSS, JavaScript (Learning)  
+**Tools:** Git, GitHub, VS Code  
+
+---
+
+### 🚀 Current Focus
+- Building Full Stack Projects  
+- Strengthening DSA for placements  
+- Learning Backend Development (Flask / Node.js)
 
 ---
 
@@ -30,4 +39,4 @@
 
 ---
 
-_Last updated on June 29, 2025_
+_Last updated on April 2026_
