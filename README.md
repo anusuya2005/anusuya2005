@@ -13,7 +13,7 @@
 
 - 🔗 My Links:  
   [GitHub](https://github.com/anusuya2005) |  
-  [LinkedIn](https://linkedin.com/in/anusuya2005) |  
+  [LinkedIn]((https://www.linkedin.com/in/anusuya-v-5b548a303/)) |  
   [LeetCode](https://leetcode.com/Anusuya_Vadivel)
 
 ---
